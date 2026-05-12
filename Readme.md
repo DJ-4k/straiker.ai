@@ -11,7 +11,7 @@ Run the scripts included in this repository to configure the local environment a
 ```text
 ./
 ├── setup.ps1
-├── 
+├── check.exe
 ├── tools/
 │   ├── notepad.exe
 │   └── TCPViewer.exe
