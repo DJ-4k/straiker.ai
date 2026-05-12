@@ -17,9 +17,9 @@ Run the scripts included in this repository to configure the local environment a
 │   └── TCPViewer.exe
 ├── configs/
 │   ├── notepad/
-│      └── notepad.conf
+│   │  └── notepad.conf
 │   └── TCPViewer/
-        └── tcpviewer.conf
+│       └── tcpviewer.conf
 ├── logs/
 │   ├── notepad-logs
 │   └── TCPViewer-logs/
